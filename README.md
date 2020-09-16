@@ -20,18 +20,18 @@ Project goal:
 ![Project Goal](goal.png?raw=true "Screenshot")
 
 #### Twitter Producer
-The Twitter Producer gets data from Twitter based on some keywords and put them in a Kafka topic of your choice
-Twitter Java Client: https://github.com/twitter/hbc
+The Twitter Producer gets data from Twitter based on some keywords and put them in a Kafka topic of your choice \
+Twitter Java Client: https://github.com/twitter/hbc \
 Twitter API Credentials: https://developer.twitter.com/
 
 #### ElasticSearch Consumer
-
-The ElasticSearch Consumer gets data from your twitter topic and inserts it into ElasticSearch
-ElasticSearch Java Client: https://www.elastic.co/guide/en/elasticsearch/client/java-rest/6.4/java-rest-high.html
+  
+The ElasticSearch Consumer gets data from your twitter topic and inserts it into ElasticSearch \
+ElasticSearch Java Client: https://www.elastic.co/guide/en/elasticsearch/client/java-rest/6.4/java-rest-high.html \
 ElasticSearch setup:
-https://www.elastic.co/guide/en/elasticsearch/reference/current/setup.html
+https://www.elastic.co/guide/en/elasticsearch/reference/current/setup.html 
 
-This project was creating while taking [Apache Kafka Series - Learn Apache Kafka for Beginners v2](https://www.udemy.com/course/apache-kafka/) course on Udemy.\
+This project was creating while taking [Apache Kafka Series - Learn Apache Kafka for Beginners v2](https://www.udemy.com/course/apache-kafka/) course on Udemy.
 
 ## Useful  Kafka CLI commands:
 
