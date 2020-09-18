@@ -12,7 +12,7 @@
 
 
 ## Kafka Twitter Exercise
-Kafka Producer that gets data from Twitter tweets and inserts them into our kafka topic in real time.\
+Kafka Producer that gets data from Twitter tweets and inserts them into the kafka topic in real time\
 Kafka consumer which takes data from kafka and puts it into ElasticSearch
 
 Project goal:
